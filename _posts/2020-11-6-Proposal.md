@@ -3,4 +3,4 @@ layout: post
 title: Project Proposal
 ---
 
-# Proposal 
+[Project Proposal](assets/proposal.pdf)
